@@ -1,0 +1,8 @@
+{
+  "name": "AIA Gen-AI Interview",
+  "description": "An interactive AI interview practice application for AIA Hong Kong candidates, featuring voice interaction and assessment generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
